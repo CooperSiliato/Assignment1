@@ -4,8 +4,8 @@
 body {
   margin 0;
   font-size: 21px;
-  color: #fdfcdc;
-  background-color: #829191;
+  color: #F4D6CC;
+  background-color: #171A21;
 }
 
 /* Typography */
@@ -21,5 +21,6 @@ h2 {
 /* Layout */
 
 header {
-  background-color: #d36135;
+  margin: 50px
+  background-color: #8C1C13;
 }
