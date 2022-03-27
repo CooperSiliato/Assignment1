@@ -4,7 +4,7 @@
 body {
   margin 0;
   font-size: 21px;
-  color: 253, 252, 220;
+  color: #829191;
   background-color: 130, 145, 145;
 }
 
@@ -21,5 +21,5 @@ h2 {
 /* Layout */
 
 header {
-  background-color: 211, 97, 53;
+  background-color: #d36135;
 }
