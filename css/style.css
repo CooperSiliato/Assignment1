@@ -4,6 +4,7 @@
 body {
   margin 0;
   font-size: 16px;
+  color: #F4D6CC;
   background-color: #171A21;
 }
 
@@ -19,7 +20,12 @@ h2 {
 
 /* Layout */
 
-header {
+.menu {
+  font-size: 12px;
+  background-color: #7A93AC
+}
+
+.profile {
   padding: 5px;
   width: auto;
   background-color: #8C1C13;
