@@ -3,24 +3,24 @@
 
 body {
   margin 0;
-  font-size: 21px;
-  color: #F4D6CC;
+  font-size: 16px;
   background-color: #171A21;
 }
 
 /* Typography */
 
 h1 {
-  font-size: 48px;
+  font-size: 36px;
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 24px;
 }
 
 /* Layout */
 
 header {
-  margin: 50px
+  padding: 5px;
+  width: auto;
   background-color: #8C1C13;
 }
