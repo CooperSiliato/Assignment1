@@ -4,15 +4,16 @@
 body {
   margin: auto 15%;
   font-size: 16px;
-  color: #FFEEDB;
+  color: #FFF9F2;
   background-color: #0E1014;
+  font-family: sans-serif;
 }
 
 /* Typography */
 
 h1 {
   font-size: 36px;
-  color: #FFEEDB;
+  color: #FFF9F2;
 }
 
 h2 {
@@ -25,7 +26,7 @@ h2 {
 
 .menu {
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   display: flex;
   color: #FFF689;
@@ -99,7 +100,7 @@ footer {
 }
 
 footer a {
-  color: #67697C;
+  color: #FFF9F2;
   text-decoration: none;
   font-weight: bold;
 }
